@@ -179,7 +179,7 @@ if st.button("💾 Save Client"):
     except PermissionError:
         st.error("❌ Ferme database_clients.xlsx puis réessaie")
 
-=======
+
 import streamlit as st
 import numpy as np
 import pandas as pd
