@@ -360,4 +360,3 @@ if st.button("💾 Save Client"):
     except PermissionError:
         st.error("❌ Ferme database_clients.xlsx puis réessaie")
 
->>>>>>> d74a033c361b4fd6aa65ace6aaf0124e1151d0de
