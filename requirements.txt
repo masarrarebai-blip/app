@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 streamlit
 pandas
 numpy
 scikit-learn
 openpyxl
+=======
+streamlit
+pandas
+numpy
+scikit-learn
+openpyxl
+>>>>>>> d74a033c361b4fd6aa65ace6aaf0124e1151d0de
 reportlab
