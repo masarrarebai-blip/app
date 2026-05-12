@@ -4,4 +4,8 @@ pandas
 numpy
 scikit-learn
 openpyxl
+<<<<<<< HEAD
 reportlab
+=======
+reportlab
+>>>>>>> 200f27fcce71ba0c7667f602abca26184964a730
